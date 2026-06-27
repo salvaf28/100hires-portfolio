@@ -47,7 +47,7 @@ This document lists 10 high-signal experts in AI-powered SEO content production,
 - **YouTube:** iPullRank channel
 - **Why high-signal:** Founder of iPullRank (technical AI SEO agency), organizer of SEO Week NYC. Clutch 4.9/5 rating, specializes in relevance engineering and LLM visibility optimization.
 - **Focus:** Technical AI SEO, GEO, content engineering for LLMs
-- **Content collected:** YouTube transcripts
+- **Content collected:** Articles ([ipullrank.com](http://ipullrank.com) + Search Engine Land)
 
 ### 6. Ross Simmonds
 

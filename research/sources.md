@@ -39,7 +39,7 @@ This document lists 10 high-signal experts in AI-powered SEO content production,
 - **Website:** [https://aleydasolis.com](https://aleydasolis.com)
 - **Why high-signal:** Founder of Orainti (international SEO consultancy), speaker at 100+ conferences globally, creator of [LearningAIsearch.com](http://LearningAIsearch.com) : a practitioner resource for AI search optimization. Award-winning consultant with 18+ years experience.
 - **Focus:** International GEO, multilingual AI search optimization
-- **Content collected:** LinkedIn posts
+- **Content collected:** X (Twitter) posts + SEOFOMO newsletter
 
 ### 5. Michael King (iPullRank)
 

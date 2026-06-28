@@ -1,12 +1,10 @@
 ## **Marie Haynes — LinkedIn Posts**
 
-**Profile:** [https://www.linkedin.com/in/schwartze/](https://www.linkedin.com/in/schwartze/)  (ganti)
+**Profile:** [https://www.linkedin.com/in/marie-haynes/](https://www.linkedin.com/in/marie-haynes/)
 
 **Collected:** June 2026 
 
 **Why selected:** Founder of Marie Haynes Consulting, author of 'SEO in the Gemini Era', contributor to Search Engine Journal and Search Engine Land. Among the first SEO practitioners to study E-E-A-T signals and AI search quality. Known for rigorous analysis of Google algorithm updates and practical AI search optimization experiments with documented results.
-
-
 
 ## **Post 1 —** Lessons from Sundar Pichai's interview — agentic future of Search
 
@@ -16,7 +14,7 @@ Here's what I learned from Sundar Pichai's latest interview:
 - Google uses Antigravity internally. They call it "Jet Ski". The Search team just started using it last week.  
 - AI was the missing ingredient for many robotics ideas conceived 10-15 years ago. Expect big things here, including drone delivery from Wing.  
 - Agentic systems like OpenClaw are the future. Sundar says probably 0.1% of the world is already living in this future. And just as I type this Google DeepMind tweeted out instructions to run OpenClaw with Gemma4 locally on your machine.  
-- AI is going to improve dramatically in 2027. Sundar hinted at big improvements coming in post training, perhaps agentic self improvement? We will see!  
+- AI is going to improve dramatically in 2027. Sundar hinted at big improvements coming in post training, perhaps agentic self improvement? We will see!
 
 My blog post with full quotes on all of the above:  
 
@@ -25,8 +23,6 @@ My blog post with full quotes on all of the above:
 And here's the interview if you want to watch the full thing. I'd recommend it! 
 
 **[https://lnkd.in/eq4SCuv9](https://lnkd.in/eq4SCuv9)**
-
-
 
 ## **Post 2 —** Transitioning to the agentic web — key changes for SEO practitioners
 
@@ -47,8 +43,6 @@ If you don't have time to read the full blog post, here are the important things
 →Website management is becoming AI-driven: The way we build and optimize sites is fundamentally changing. With new AI-native tools (like EmDash and Shopify's AI toolkit) and concepts like Andrej Karpathy's autoresearch, we are moving toward an era where agents can continually test, learn, and improve websites autonomously.  
 
 Read the full post here: **[https://lnkd.in/eQTMMScY](https://lnkd.in/eQTMMScY)**
-
-
 
 ## **Post 3 —** Google Q1 2026 earnings call — agentic workflows and Search growth
 
@@ -78,8 +72,6 @@ Here are my full notes:
 
 **[https://lnkd.in/esUpRQUD](https://lnkd.in/esUpRQUD)**
 
-
-
 ## **Post 4 —** UCP, Claude Code, and agentic commerce optimization tips
 
 Some tips from Andrea Li in this great chat about UCP, Claude Code and more!   
@@ -102,8 +94,6 @@ Really enjoyed this chat!
 
 **[https://lnkd.in/gseWKpD5](https://lnkd.in/gseWKpD5)**
 
-
-
 ## **Post 5 —** TurboQuant — Google's vector search breakthrough and SEO implications
 
 This week, Google announced a huge breakthrough, called TurboQuant. This is a really big deal. TurboQuant makes it significantly faster to assemble and query a vector space. Their abstract says that it reduces the time needed to build and index for vector search to "virtually zero."  
@@ -114,11 +104,11 @@ Although Google released their blog post on TurboQuant this week, the research p
 
 If Google has started using TurboQuant, then I expect we will see some significant changes. One is good for website owners. And one is not.  
 
-1) Google should get better at truly surfacing great, original and insightful content that meets the searcher's needs. If you're focusing on creating awesome stuff rather than commodity content, this update should be good for you.  
+1. Google should get better at truly surfacing great, original and insightful content that meets the searcher's needs. If you're focusing on creating awesome stuff rather than commodity content, this update should be good for you.
 
 but also,  
 
-2) TurboQuant will allow for more AI Overviews. Google will be able to assemble the content needed to produce an AI Overview instantly. They'll have more confidence in their ability to answer even super complicated queries.  
+1. TurboQuant will allow for more AI Overviews. Google will be able to assemble the content needed to produce an AI Overview instantly. They'll have more confidence in their ability to answer even super complicated queries.
 
 I wrote a blog post breaking it down: 
 

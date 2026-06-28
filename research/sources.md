@@ -55,7 +55,7 @@ This document lists 10 high-signal experts in AI-powered SEO content production,
 - **YouTube:** Foundation Marketing channel
 - **Why high-signal:** Founder of Foundation, a content distribution agency specializing in B2B SaaS. Known for "create once, distribute forever" framework. Active case study publisher with documented traffic results.
 - **Focus:** AI content distribution, B2B SaaS content strategy
-- **Content collected:** LinkedIn posts + YouTube transcripts
+- **Content collected:** LinkedIn posts
 
 ### 7. Eli Schwartz
 
@@ -71,7 +71,7 @@ This document lists 10 high-signal experts in AI-powered SEO content production,
 - **Podcast:** Search News You Can Use (weekly)
 - **Why high-signal:** Founder of Marie Haynes Consulting, author of "SEO in the Gemini Era", cited in The Atlantic, Forbes, and Entrepreneur. Among the first practitioners to teach E-E-A-T and AI search quality signals.
 - **Focus:** Google algorithm updates, AI Overviews, content quality for AI search
-- **Content collected:** Other (podcast notes)
+- **Content collected:** LinkedIn posts
 
 ### 9. Koray Tuğberk Gübür
 
@@ -79,7 +79,7 @@ This document lists 10 high-signal experts in AI-powered SEO content production,
 - **YouTube:** Holistic SEO channel
 - **Why high-signal:** Founder of Holistic SEO, pioneer of semantic SEO and topical authority methodology. Known for highly technical, data-driven content, consistently cited by top industry researchers as leading semantic SEO expert.
 - **Focus:** Semantic SEO, topical authority, AI content structure
-- **Content collected:** YouTube transcripts
+- **Content collected:** LinkedIn posts
 
 ### 10. Julian Goldie
 
@@ -87,7 +87,7 @@ This document lists 10 high-signal experts in AI-powered SEO content production,
 - **YouTube:** Julian Goldie SEO channel (100K+ subscribers)
 - **Why high-signal:** Runs Julian Goldie SEO agency, publishes hands-on AI SEO case studies on YouTube with step-by step walkthroughs and real results. One of the most accessible practitioners for AI SEO implementation.
 - **Focus:** AI SEO implementation, practical case studies, content production at scale
-- **Content collected:** YouTube transcripts
+- **Content collected:** LinkedIn posts (3 selected — highest signal)
 
 ---
 
